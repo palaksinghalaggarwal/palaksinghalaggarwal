@@ -11,8 +11,7 @@ Feel free to connect with me or check out my projects on GitHub!
 
 - **How to reach me** :
 
-You can reach me at: [pg4832483@gmail.com](mailto:pg4832483@gmail.com)
-
+You can reach me at: [pg4832483@gmail.com](mailto:pg4832483@gmail.com)  
 Connect with me on [LinkedIn](https://www.linkedin.com/in/palakgupta251121/)
 
 
