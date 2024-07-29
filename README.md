@@ -1,16 +1,17 @@
 ## Hi there 👋
 
 
-**palaksinghalaggarwal/palaksinghalaggarwal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi! I'm Palak Gupta, a passionate developer specializing in Flutter and web development. I have experience in building various applications, including news, weather, dictionary, and chatbot apps using Flutter. I'm continuously learning and improving my skills, particularly in frontend web development and the MERN stack.
 
-Here are some ideas to get you started:
+- **Education**: BTech in Computer Science and Engineering
+- **Recent Learning**: MERN Stack Development
+- **Current Focus**: Frontend web development
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Feel free to connect with me or check out my projects on GitHub!
+
+- **How to reach me** :
+
+You can reach me at: [pg4832483@gmail.com](mailto:pg4832483@gmail.com)
+Connect with me on [LinkedIn](https://www.linkedin.com/in/palakgupta251121/)
+
+
